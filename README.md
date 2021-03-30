@@ -1,4 +1,4 @@
-# OKCupidProject
+# OKCupid Project
 
 ## Introduction
 
